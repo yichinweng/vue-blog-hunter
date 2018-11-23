@@ -1,6 +1,6 @@
 # vue-blog-hunter
 
-> use nuxt.js, vuetify, storybook, firebase to build blog.
+> [用 Nuxt.js 2.0, Vuetify, Storybook, Firebase 建一個 Blog](https://ithelp.ithome.com.tw/users/20107107/ironman/1614)
 
 ## Build Setup
 
